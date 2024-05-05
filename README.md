@@ -1,5 +1,5 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 18:04:24
+### DATE: 5:05:24
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
@@ -32,8 +32,8 @@ in a network of web pages based on the structure of the links between them.
     <p>    Visualize using bar chart to represent authority and hub scores.
 
 ### Program:
-## DEVELOPED BY :KAVYA K
-## REG NO :212222230065
+## DEVELOPED BY :A K MOHAN RAJ        
+## REG NO :212221230064
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
